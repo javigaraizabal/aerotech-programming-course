@@ -1,2 +1,1 @@
-int my=69
-print(my)
+my_first_variable=69
